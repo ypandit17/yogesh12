@@ -1,0 +1,7 @@
+
+@Test
+@Parameter(value1,value2)
+public void m1(int a,int b){
+int c=a+b;
+syso(c);
+}
